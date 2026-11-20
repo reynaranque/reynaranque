@@ -3,7 +3,8 @@
 <p align="center"><i>Turning messy data into clear decisions</i></p>
 
 <p align="center">
- 
+
+ <a href="https://github.com/reynaranque/reynaranque/blob/main/Reyna_Ranque_CV.pdf"><img src="https://img.shields.io/badge/📄_View_My_CV-0A2463?style=for-the-badge"></a>
   <a href="[your-linkedin-url](https://www.linkedin.com/in/reyna-ranque/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
