@@ -23,4 +23,3 @@ Analytical and detail-oriented Data Analyst with practical experience in financi
 - **[Microsoft Fabric | Azure | Machine Learning Portfolio](https://github.com/reynaranque/Microsoft-Fabric---Azure---Machine-Learning)**: EDA and analysis projects using Python, Pandas, Matplotlib and Seaborn
 
 ### 📫 Let's Connect
-Open to data analyst opportunities. Feel free to reach out on LinkedIn.
